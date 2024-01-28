@@ -1,4 +1,0 @@
-cryptography
-emoji
-fpdf2
-pyfiglet
